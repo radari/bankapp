@@ -1,0 +1,15 @@
+{
+  "name": "Bank-App",
+  "description": "Contains a bank application written in MEAN",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
